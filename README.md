@@ -1,5 +1,13 @@
 ### Hi there 👋
 I a m CHEBIL mohamed GIS engener ([My profil](https://www.linkedin.com/in/chebil-mohamed-9ba09850/))
+### My Profil
+* Good knowloge of the encountered problems in land processing (Noise, Multiples, dune static problem)
+* Definition of the project's technical objectives, drawing up and managing project monitoring documents and taking in charge technically all projects from startup meetings with the client to the processed data delivery
+* Providing clients with their entire technical request (Documents, dedicated processing…)
+* In seismic field processing /QC (Land/OBC acquisition crews):Explosive, Vibroseis, Airgun sources.
+* Automating of repeated taskes and programing graphical interface tools using python coding
+* Seismic Data processing software: Geocluster, Geovation, G2, Geoland, Promax, Seismic Unix.
+* Large gis experience with complete detailed programming and development tasks using GIS software and python language.
 <!--
 **chebil1django/chebil1django** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
