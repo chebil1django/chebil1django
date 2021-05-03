@@ -1,5 +1,5 @@
 ### Hi there 👋
-I a m CHEBIL mohamed GIS engener ([My profil](https://www.linkedin.com/in/chebil-mohamed-9ba09850/))
+I a m CHEBIL mohamed GIS  ([My profil](https://www.linkedin.com/in/chebil-mohamed-9ba09850/))
 ### My Profil
 * Good knowloge of the encountered problems in land processing (Noise, Multiples, dune static problem)
 * Definition of the project's technical objectives, drawing up and managing project monitoring documents and taking in charge technically all projects from startup meetings with the client to the processed data delivery
